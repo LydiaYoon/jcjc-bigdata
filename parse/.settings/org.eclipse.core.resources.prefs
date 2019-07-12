@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//com/input/inputPassBill.py=utf-8
+encoding//com/input/inputPolitician.py=utf-8
+encoding//com/input/inputPoliticianNo2.py=utf-8
+encoding//com/input/inputSameName.py=utf-8
+encoding//com/input/inputWaitBill.py=utf-8
+encoding//com/parsing/parseBillInfo.py=utf-8
+encoding//com/parsing/parsePassBill.py=utf-8
+encoding//com/parsing/parsePoliticianInfo.py=utf-8
+encoding//com/parsing/parseWaitBill.py=utf-8
+encoding//com/test/inputPoliticianNo.py=utf-8
+encoding//com/test/inputPoliticianNo_oracle_oracle.py=utf-8
+encoding//com/test/inputTest.py=utf-8
+encoding//com/test/test.py=utf-8

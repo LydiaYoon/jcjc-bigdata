@@ -1,0 +1,49 @@
+제안이유	NA
+주요내용	NA
+
+
+
+것	NA
+조	NA
+제	NA
+호	NA
+등	NA
+내용	NA
+년	NA
+말	NA
+밖	NA
+자	NA
+수	NA
+바	NA
+중	NA
+때문	NA
+한편	NA
+
+
+
+3ㆍ15의거	NNP
+독재정부	NNP
+부정선거	NNP
+대한민국 정부	NNP
+민주화운동	NNP
+4ㆍ19혁명	NNP
+5ㆍ18민주화운동	NNP
+국가기념일	NNP
+명예회복	NNP
+법률안	NNP
+국민화합	NNP
+확정판결	NNP
+면소판결	NNP
+형사소송법	NNP
+군사법원법	NNP
+국무총리	NNP
+진상규명	NNP
+명예회복	NNP
+심의위원회	NNP
+관련 규정	NNP
+국가유공자	NNP
+지방자치단체	NNP
+이스포츠	NNP
+전자스포츠	NNP
+
+
