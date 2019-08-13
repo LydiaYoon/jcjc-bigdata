@@ -36,7 +36,7 @@
 # 시스템 구현
 |  |  |
 | :------------ | :----------- |   
-| Development Environment | Windows 10, CentOS |  
+| Development Environment | Windows 10, CentOS 6.5 |  
 | DB | Oracle 10g, MongoDB |  
 | Hadoop Eco-System | Flume, Spark |  
 | library | BeautifulSoup 4, Pandas, KoNLPy(Komoran) |  
