@@ -41,7 +41,7 @@ values(0, 0, '윤나래','尹나래','lydia yoon',
 'https://pbs.twimg.com/media/DIAnF29VoAACic1.jpg');
 
 # 윤나래 확인
-select * from politician where politician_kor_name = '윤나래'
+select * from politician where politician_kor_name = '유승민'
 
 # politician 테이블 조회
 select * from politician
@@ -53,3 +53,8 @@ update politician set politician_hj_name = '고용진' where politician_kor_name
 select * from politician where politician_kor_name = '김성태' or politician_kor_name = '최경환'
 
 select politician_no, politician_kor_name, politician_hj_name, politician_eng_name from politician where politician_kor_name = '김성태' or politician_kor_name = '최경환'
+
+
+
+select * from politician where politician_kor_name = '원유철'
+

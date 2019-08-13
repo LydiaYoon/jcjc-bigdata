@@ -38,3 +38,4 @@ select proposer, substr(proposer, 0, instr(proposer, '의원')-1) as "politician
 
 
 select * from bill where proposer = '이동섭'
+
