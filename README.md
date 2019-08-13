@@ -29,9 +29,7 @@
 <br>
   
 ### 2) 일정
-  2019년 6월 19일 ~ 진행중  
-  - 190701  하둡에 적재한 형태소 분석 결과를 pySpark로 MR [완료]
-  - 하둡에 적재한 형태소 분석 결과를 Hive로 MR [진행중]
+  2019년 6월 19일 ~ 7월 10일
   
 <br><br>
   
@@ -40,5 +38,5 @@
 | :------------ | :----------- |   
 | Development Environment | Windows 10, CentOS |  
 | DB | Oracle 10g, MongoDB |  
-| Hadoop Eco-System | Flume, Hive, Spark |  
+| Hadoop Eco-System | Flume, Spark |  
 | library | BeautifulSoup 4, Pandas, KoNLPy(Komoran) |  
